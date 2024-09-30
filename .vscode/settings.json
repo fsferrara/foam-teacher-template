@@ -1,0 +1,26 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "foam.edit.linkReferenceDefinitions": "off",
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    }
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "files.exclude": {
+    "_site/**": true
+  },
+  "files.insertFinalNewline": true,
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+  "foam.openDailyNote.directory": "daily",
+  "foam.openDailyNote.filenameFormat": "yyyy-mm-dd",
+  "foam.files.newNotePath": "currentDir",
+  "markmap.defaultOptions": "{\n    \"maxWidth\": 680\n}"
+}

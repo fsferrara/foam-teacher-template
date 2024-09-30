@@ -1,0 +1,26 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    // Foam's own extension
+    "foam.foam-vscode",
+
+    // Tons of markdown goodies (lists, tables of content, so much more)
+    "yzhang.markdown-all-in-one",
+
+    // Prettier for auto formatting code
+    "esbenp.prettier-vscode",
+
+    // Understated grayscale theme (light and dark variants)
+    "philipbe.theme-gray-matter",
+
+    // Spell checker
+    "ban.spellright",
+
+    // Adds Mermaid diagram and flowchart support to VS Code's builtin Markdown preview and to Markdown cells in notebooks
+    "bierner.markdown-mermaid",
+
+    // Markmap support for Mindmaps
+    "gera2ld.markmap-vscode"
+  ]
+}

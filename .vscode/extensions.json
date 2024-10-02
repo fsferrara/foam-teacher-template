@@ -21,6 +21,9 @@
     "bierner.markdown-mermaid",
 
     // Markmap support for Mindmaps
-    "gera2ld.markmap-vscode"
+    "gera2ld.markmap-vscode",
+
+    // Open the HTML file in the browser
+    "holazz.vsc-open-in-browser"
   ]
 }

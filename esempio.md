@@ -2,13 +2,7 @@
 title: markmap
 markmap:
   colorFreezeLevel: 2
-  color: ["blue", "orange", "green", "violet", "grey"]
-  colorFreezeLevel: 2
-  maxWidth: 640
-  embedAssets: true
 ---
-
-# Mappa Concettuale
 
 ## Links
 
@@ -45,4 +39,4 @@ console.log('hello, JavaScript')
 | Apple | 4 |
 | Banana | 2 |
 
-![](../attachments/favicon.png)
+![](/attachments/favicon.png)

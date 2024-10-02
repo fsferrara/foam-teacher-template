@@ -22,5 +22,5 @@
   "foam.openDailyNote.directory": "daily",
   "foam.openDailyNote.filenameFormat": "yyyy-mm-dd",
   "foam.files.newNotePath": "currentDir",
-  "markmap.defaultOptions": "{\n    \"maxWidth\": 680\n}"
+  "markmap.defaultOptions": "{\n    \"color\": [\"blue\", \"orange\", \"green\", \"violet\", \"grey\"],\n    \"colorFreezeLevel\": 2,\n    \"maxWidth\": 640,\n    \"embedAssets\": true\n}"
 }
